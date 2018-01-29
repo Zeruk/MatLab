@@ -1,4 +1,4 @@
- 
+   
 I1 = imread('bf1.jpg');
 [I2, map] = imread('Athena.bmp');
 %{
